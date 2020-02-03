@@ -4,6 +4,6 @@ It's an easy syntax for formatting plain text.
 
 Our Journal has many topics:
 
-* [learning-markdown](https://github.com/batoolalali/learning-journal/learning-markdown)
-* [text-editor](https://github.com/batoolalali/learning-journal/text-editor)
-* [Setup and Documentation](https://github.com/batoolalali/learning-journal/Read03)
+* [learning-markdown](https://batoolalali.github.io/learning-journal/learning-markdown)
+* [text-editor](https://batoolalali.github.io/learning-journal/text-editor)
+* [Setup and Documentation](https://batoolalali.github.io/learning-journal/Read03)
