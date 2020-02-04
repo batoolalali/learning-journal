@@ -7,7 +7,7 @@ Ways to specify colors:
 * color name
 
 #### Background colors
-tag {background-color: color } 
+tag {background-color: color; } 
 
 #### Contrast
 choose foreground and background colors that make enough contrast for the text.
